@@ -3896,9 +3896,9 @@ Charlemagne – Roncevaux"/>
     <attvalue for="3" value="0"/>
     <attvalue for="4" value="https://heurist.huma-num.fr/heurist/recID=942&amp;fmt=html&amp;db=jbcamps_gestes"/>
     </attvalues>
-</node><node id="686" label="Roland à Saragosse (Geste: Roland à Saragosse, Roland), trad. surviving, 1100 to 1400.">                               
+</node><node id="686" label="Roland à Saragosse (Geste: Roland à Saragosse), trad. surviving, 1100 to 1400.">                               
     <attvalues>
-    <attvalue for="0" value="Roland à Saragosse (Geste: Roland à Saragosse, Roland), trad. surviving, 1100 to 1400."/>
+    <attvalue for="0" value="Roland à Saragosse (Geste: Roland à Saragosse), trad. surviving, 1100 to 1400."/>
     <attvalue for="1" value="https://heurist.huma-num.fr/heurist/?db=jbcamps_gestes&amp;icon=101"/>
     <attvalue for="2" value="101"/>
     <attvalue for="3" value="0"/>
@@ -9370,7 +9370,7 @@ Lorrains"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="808" source="686" target="941" weight="1">                               
+</edge><edge id="808" source="690" target="941" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
@@ -9382,16 +9382,16 @@ Lorrains"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="810" source="690" target="941" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="811" source="942" target="930" weight="1">                               
+</edge><edge id="810" source="942" target="930" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="811" source="686" target="942" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
 </edge><edge id="812" source="686" target="942" weight="1">                               
@@ -9400,130 +9400,130 @@ Lorrains"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="813" source="686" target="942" weight="1">                               
+</edge><edge id="813" source="534" target="941" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="814" source="686" target="941" weight="1">                               
+</edge><edge id="814" source="679" target="941" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="815" source="534" target="941" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="816" source="679" target="941" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="817" source="138" target="50" weight="1">                               
+</edge><edge id="815" source="138" target="50" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="818" source="140" target="50" weight="1">                               
+</edge><edge id="816" source="140" target="50" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="819" source="199" target="22" weight="1">                               
+</edge><edge id="817" source="199" target="22" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="820" source="572" target="199" weight="1">                               
+</edge><edge id="818" source="572" target="199" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="821" source="572" target="199" weight="1">                               
+</edge><edge id="819" source="572" target="199" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="822" source="204" target="933" weight="1">                               
+</edge><edge id="820" source="204" target="933" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="823" source="769" target="204" weight="1">                               
+</edge><edge id="821" source="769" target="204" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="824" source="769" target="204" weight="1">                               
+</edge><edge id="822" source="769" target="204" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="825" source="203" target="48" weight="1">                               
+</edge><edge id="823" source="203" target="48" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="826" source="536" target="203" weight="1">                               
+</edge><edge id="824" source="536" target="203" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="827" source="536" target="203" weight="1">                               
+</edge><edge id="825" source="536" target="203" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="828" source="166" target="10" weight="1">                               
+</edge><edge id="826" source="166" target="10" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="829" source="537" target="166" weight="1">                               
+</edge><edge id="827" source="537" target="166" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="830" source="752" target="166" weight="1">                               
+</edge><edge id="828" source="752" target="166" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="831" source="167" target="10" weight="1">                               
+</edge><edge id="829" source="167" target="10" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="832" source="538" target="167" weight="1">                               
+</edge><edge id="830" source="538" target="167" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="833" source="205" target="18" weight="1">                               
+</edge><edge id="831" source="205" target="18" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="832" source="687" target="205" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="833" source="688" target="205" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
 </edge><edge id="834" source="687" target="205" weight="1">                               
@@ -9532,46 +9532,46 @@ Lorrains"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="835" source="688" target="205" weight="1">                               
+</edge><edge id="835" source="530" target="93" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="836" source="687" target="205" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="837" source="530" target="93" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="838" source="104" target="43" weight="1">                               
+</edge><edge id="836" source="104" target="43" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="839" source="689" target="104" weight="1">                               
+</edge><edge id="837" source="689" target="104" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="840" source="691" target="104" weight="1">                               
+</edge><edge id="838" source="691" target="104" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="841" source="691" target="104" weight="1">                               
+</edge><edge id="839" source="691" target="104" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="840" source="539" target="141" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="841" source="141" target="4" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1095"/>
+    <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
 </edge><edge id="842" source="539" target="141" weight="1">                               
@@ -9580,16 +9580,16 @@ Lorrains"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="843" source="141" target="4" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1095"/>
-    <attvalue for="1" value="cycle"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="844" source="539" target="141" weight="1">                               
+</edge><edge id="843" source="573" target="142" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="844" source="142" target="4" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1095"/>
+    <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
 </edge><edge id="845" source="573" target="142" weight="1">                               
@@ -9598,52 +9598,52 @@ Lorrains"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="846" source="142" target="4" weight="1">                               
+</edge><edge id="846" source="105" target="43" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="847" source="573" target="142" weight="1">                               
+</edge><edge id="847" source="770" target="105" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="848" source="105" target="43" weight="1">                               
+</edge><edge id="848" source="770" target="105" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="849" source="107" target="43" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="849" source="770" target="105" weight="1">                               
+</edge><edge id="850" source="692" target="107" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="850" source="770" target="105" weight="1">                               
+</edge><edge id="851" source="692" target="107" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="851" source="107" target="43" weight="1">                               
+</edge><edge id="852" source="540" target="143" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="853" source="143" target="4" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="852" source="692" target="107" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="853" source="692" target="107" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
 </edge><edge id="854" source="540" target="143" weight="1">                               
@@ -9652,34 +9652,34 @@ Lorrains"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="855" source="143" target="4" weight="1">                               
+</edge><edge id="855" source="144" target="4" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="856" source="540" target="143" weight="1">                               
+</edge><edge id="856" source="771" target="144" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="857" source="144" target="4" weight="1">                               
+</edge><edge id="857" source="771" target="144" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="858" source="574" target="145" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="859" source="145" target="4" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="858" source="771" target="144" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="859" source="771" target="144" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
 </edge><edge id="860" source="574" target="145" weight="1">                               
@@ -9688,235 +9688,235 @@ Lorrains"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="861" source="145" target="4" weight="1">                               
+</edge><edge id="861" source="779" target="230" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="862" source="210" target="23" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="862" source="574" target="145" weight="1">                               
+</edge><edge id="863" source="575" target="210" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="863" source="779" target="230" weight="1">                               
+</edge><edge id="864" source="693" target="210" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="864" source="210" target="23" weight="1">                               
+</edge><edge id="865" source="701" target="210" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="866" source="701" target="210" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="867" source="575" target="210" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="868" source="693" target="210" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="869" source="739" target="170" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="870" source="168" target="53" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="865" source="575" target="210" weight="1">                               
+</edge><edge id="871" source="576" target="168" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="866" source="693" target="210" weight="1">                               
+</edge><edge id="872" source="576" target="168" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="867" source="701" target="210" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="868" source="701" target="210" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="869" source="575" target="210" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="870" source="693" target="210" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="871" source="739" target="170" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="872" source="168" target="53" weight="1">                               
+</edge><edge id="873" source="124" target="45" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="873" source="576" target="168" weight="1">                               
+</edge><edge id="874" source="694" target="124" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="874" source="576" target="168" weight="1">                               
+</edge><edge id="875" source="694" target="124" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="875" source="124" target="45" weight="1">                               
+</edge><edge id="876" source="612" target="68" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="877" source="75" target="28" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="876" source="694" target="124" weight="1">                               
+</edge><edge id="878" source="541" target="75" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="877" source="694" target="124" weight="1">                               
+</edge><edge id="879" source="541" target="75" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="878" source="612" target="68" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="879" source="75" target="28" weight="1">                               
+</edge><edge id="880" source="76" target="28" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="880" source="541" target="75" weight="1">                               
+</edge><edge id="881" source="542" target="76" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="881" source="541" target="75" weight="1">                               
+</edge><edge id="882" source="542" target="76" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="882" source="76" target="28" weight="1">                               
+</edge><edge id="883" source="77" target="28" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="883" source="542" target="76" weight="1">                               
+</edge><edge id="884" source="695" target="77" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="884" source="542" target="76" weight="1">                               
+</edge><edge id="885" source="695" target="77" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="885" source="77" target="28" weight="1">                               
+</edge><edge id="886" source="581" target="119" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="887" source="137" target="49" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="886" source="695" target="77" weight="1">                               
+</edge><edge id="888" source="696" target="137" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="887" source="695" target="77" weight="1">                               
+</edge><edge id="889" source="696" target="137" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="888" source="581" target="119" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="889" source="137" target="49" weight="1">                               
+</edge><edge id="890" source="119" target="44" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="890" source="696" target="137" weight="1">                               
+</edge><edge id="891" source="581" target="119" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="891" source="696" target="137" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="892" source="119" target="44" weight="1">                               
+</edge><edge id="892" source="228" target="934" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="893" source="581" target="119" weight="1">                               
+</edge><edge id="893" source="697" target="228" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="894" source="228" target="934" weight="1">                               
+</edge><edge id="894" source="697" target="228" weight="1">                               
+    <attvalues>
+    <attvalue for="0" value="1097"/>
+    <attvalue for="1" value="Geste"/>
+    <attvalue for="3" value="1"/>
+    </attvalues>
+</edge><edge id="895" source="82" target="34" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1095"/>
     <attvalue for="1" value="cycle"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="895" source="697" target="228" weight="1">                               
+</edge><edge id="896" source="577" target="82" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="896" source="697" target="228" weight="1">                               
+</edge><edge id="897" source="582" target="82" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="897" source="82" target="34" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1095"/>
-    <attvalue for="1" value="cycle"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="898" source="577" target="82" weight="1">                               
+</edge><edge id="898" source="698" target="82" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="899" source="582" target="82" weight="1">                               
+</edge><edge id="899" source="699" target="82" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
@@ -9928,109 +9928,97 @@ Lorrains"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="901" source="699" target="82" weight="1">                               
+</edge><edge id="901" source="577" target="82" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="902" source="698" target="82" weight="1">                               
+</edge><edge id="902" source="699" target="82" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="903" source="577" target="82" weight="1">                               
+</edge><edge id="903" source="582" target="82" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1097"/>
     <attvalue for="1" value="Geste"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="904" source="699" target="82" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="905" source="582" target="82" weight="1">                               
-    <attvalues>
-    <attvalue for="0" value="1097"/>
-    <attvalue for="1" value="Geste"/>
-    <attvalue for="3" value="1"/>
-    </attvalues>
-</edge><edge id="906" source="730" target="829" weight="1">                               
+</edge><edge id="904" source="730" target="829" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="907" source="736" target="849" weight="1">                               
+</edge><edge id="905" source="736" target="849" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="908" source="586" target="854" weight="1">                               
+</edge><edge id="906" source="586" target="854" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="909" source="732" target="856" weight="1">                               
+</edge><edge id="907" source="732" target="856" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="910" source="721" target="861" weight="1">                               
+</edge><edge id="908" source="721" target="861" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="911" source="586" target="862" weight="1">                               
+</edge><edge id="909" source="586" target="862" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="912" source="764" target="864" weight="1">                               
+</edge><edge id="910" source="764" target="864" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="913" source="737" target="871" weight="1">                               
+</edge><edge id="911" source="737" target="871" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="914" source="592" target="873" weight="1">                               
+</edge><edge id="912" source="592" target="873" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="915" source="592" target="884" weight="1">                               
+</edge><edge id="913" source="592" target="884" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="916" source="596" target="894" weight="1">                               
+</edge><edge id="914" source="596" target="894" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="917" source="617" target="897" weight="1">                               
+</edge><edge id="915" source="617" target="897" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
     <attvalue for="3" value="1"/>
     </attvalues>
-</edge><edge id="918" source="663" target="899" weight="1">                               
+</edge><edge id="916" source="663" target="899" weight="1">                               
     <attvalues>
     <attvalue for="0" value="1117"/>
     <attvalue for="1" value="stemma"/>
