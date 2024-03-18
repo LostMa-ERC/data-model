@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="undirected">
+    <attributes class="node">
+      <attribute id="state" title="state" type="string"/>
+      <attribute id="ipysigma_kwarg_node_size" title="ipysigma_kwarg_node_size" type="integer"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="id" title="id" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="4" label="??">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="3"/>
+        <viz:position x="711.4035372585581" y="253.0543198214813"/>
+      </node>
+      <node id="15" label="À rejeter ?">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="3"/>
+        <viz:position x="711.9636668481721" y="251.93655086563933"/>
+      </node>
+      <node id="26" label="Anglais">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.6387931660106" y="251.72938433406577"/>
+      </node>
+      <node id="37" label="Anglais – Bueve de Hanstonne">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.667284190112" y="251.7276595586122"/>
+      </node>
+      <node id="48" label="Arnaïs d'Orléans">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="711.2199203224453" y="252.89471662810237"/>
+      </node>
+      <node id="51" label="Basin [lien geste lorrains]">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="3"/>
+        <viz:position x="712.1609285346524" y="252.66555184483764"/>
+      </node>
+      <node id="928" label="Basin [lien geste lorrains] // Charlemagne – Vie">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="3"/>
+        <viz:position x="712.3348339297738" y="252.58544867571308"/>
+      </node>
+      <node id="52" label="Blaye">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="711.3327362892582" y="252.970215973781"/>
+      </node>
+      <node id="952" label="Charlemagne">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="7"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="12.333333333333332"/>
+        <viz:position x="711.7549824754491" y="252.73844587379713"/>
+      </node>
+      <node id="53" label="Charlemagne -- ??">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.8329322373368" y="252.72353571000104"/>
+      </node>
+      <node id="54" label="Charlemagne – Agolant">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.8079097350368" y="252.67985093126944"/>
+      </node>
+      <node id="5" label="Charlemagne – après Roncevaux">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="2"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="5.666666666666666"/>
+        <viz:position x="711.4352970381024" y="252.55840083226005"/>
+      </node>
+      <node id="930" label="Charlemagne – avant Roncevaux">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.5526520951006" y="252.72594171635177"/>
+      </node>
+      <node id="931" label="Charlemagne – avant Roncevaux?">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.5117940888609" y="252.69157350574412"/>
+      </node>
+      <node id="6" label="Charlemagne – reliques Passion">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="2"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="5.666666666666666"/>
+        <viz:position x="711.7991341939457" y="252.8534523785525"/>
+      </node>
+      <node id="7" label="Charlemagne – reliques Passion – Rome">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.82035376217" y="252.90626582337728"/>
+      </node>
+      <node id="9" label="Charlemagne – Roncevaux">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="5"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="9.666666666666668"/>
+        <viz:position x="711.5677215283079" y="252.66413299522694"/>
+      </node>
+      <node id="10" label="Charlemagne – suite Roncevaux">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.582357788828" y="252.60907040439133"/>
+      </node>
+      <node id="953" label="Charlemagne – Vassaux">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="2"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="5.666666666666666"/>
+        <viz:position x="712.1760439453532" y="252.8843791256114"/>
+      </node>
+      <node id="11" label="Charlemagne – Vassaux rebelles">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="712.1527825341959" y="252.9161163292315"/>
+      </node>
+      <node id="932" label="Charlemagne – vassaux??">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="712.1994766364392" y="252.8531536969179"/>
+      </node>
+      <node id="12" label="Charlemagne – Vie de Charlemagne">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.7206567130953" y="252.79607312086648"/>
+      </node>
+      <node id="929" label="Charlemagne – Vie de Charlemagne?">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.7559546426189" y="252.66996900516725"/>
+      </node>
+      <node id="8" label="Charlemagne – Vie de Roland">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.8158178639104" y="252.77247854506413"/>
+      </node>
+      <node id="13" label="Charles Martel">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="712.058389845369" y="251.8889622673549"/>
+      </node>
+      <node id="14" label="Croisade">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="6"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="11"/>
+        <viz:position x="712.1626382366544" y="252.23871329929491"/>
+      </node>
+      <node id="19" label="Croisade 1">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="2"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="5.666666666666666"/>
+        <viz:position x="712.2057121619171" y="252.32940390470128"/>
+      </node>
+      <node id="21" label="Croisade 1 – Lignage Godefroi">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="712.2273195878101" y="252.3761955282232"/>
+      </node>
+      <node id="22" label="Croisade 2">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="712.1925224028975" y="252.17706166220293"/>
+      </node>
+      <node id="18" label="Croisade ?">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="712.1316433835672" y="252.1771955682106"/>
+      </node>
+      <node id="16" label="Croisade – Albigeois">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="712.2275478233914" y="252.22870992515857"/>
+      </node>
+      <node id="17" label="Croisade – Reconquista">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="712.095599334459" y="252.22673586978567"/>
+      </node>
+      <node id="933" label="Croisade?">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="712.1171026571204" y="252.2854187580349"/>
+      </node>
+      <node id="23" label="Dagobert">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="712.3349866603995" y="252.70657400705505"/>
+      </node>
+      <node id="24" label="Doon de Maience">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="711.3349659567906" y="251.8698419623987"/>
+      </node>
+      <node id="25" label="Girart de Roussillon">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="710.9984918192126" y="252.6259809332861"/>
+      </node>
+      <node id="934" label="Huon de Bord.">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="712.4336509199167" y="252.45952009010685"/>
+      </node>
+      <node id="27" label="Huon de Bordeaux">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="711.8271642472162" y="252.30984026624043"/>
+      </node>
+      <node id="28" label="Indépendant">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="6"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="11"/>
+        <viz:position x="711.6543529512503" y="252.02330922528816"/>
+      </node>
+      <node id="30" label="Indépendant – actualité">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.6469494735474" y="251.95847923911208"/>
+      </node>
+      <node id="31" label="Indépendant – Arles">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.7160062674042" y="252.05132841211437"/>
+      </node>
+      <node id="32" label="Indépendant – Isembart">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.6626963649882" y="252.08888476267205"/>
+      </node>
+      <node id="33" label="Indépendant – Mérovingien">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.5991076374753" y="252.05985534432347"/>
+      </node>
+      <node id="29" label="Indépendant – [liens avec geste des Lorrains]">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.7104443833999" y="251.98717394406302"/>
+      </node>
+      <node id="935" label="Indépendant?">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.5920079261198" y="251.99612066179787"/>
+      </node>
+      <node id="34" label="Lorrains">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="711.2591325168152" y="251.96968136625875"/>
+      </node>
+      <node id="954" label="Monglane">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="9"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="15"/>
+        <viz:position x="711.2952932647859" y="252.44061579828013"/>
+      </node>
+      <node id="35" label="Monglane -- ?">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="3"/>
+        <viz:position x="711.5816405863894" y="253.10175654949808"/>
+      </node>
+      <node id="36" label="Monglane -- Rainouart">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.2346653665409" y="252.49731218716377"/>
+      </node>
+      <node id="38" label="Monglane – Aliscans/Larchamp">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.2542428654497" y="252.36467834254105"/>
+      </node>
+      <node id="39" label="Monglane – Garin (les origines)">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.3495976402098" y="252.3804225624986"/>
+      </node>
+      <node id="40" label="Monglane – Guillaume">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.3031055154435" y="252.35590286601806"/>
+      </node>
+      <node id="41" label="Monglane – Guillaume (fin)">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.3664080235958" y="252.4400566886467"/>
+      </node>
+      <node id="42" label="Monglane – indépendante">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.2196258049386" y="252.39970065482976"/>
+      </node>
+      <node id="43" label="Monglane – Narbonne">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.2883333873004" y="252.51628558611384"/>
+      </node>
+      <node id="44" label="Monglane – Vivien">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="711.2115058216865" y="252.44973778907632"/>
+      </node>
+      <node id="45" label="Nanteuil">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="711.8893983636888" y="253.1105933824007"/>
+      </node>
+      <node id="46" label="NON IDENTIFIÉ">
+        <attvalues>
+          <attvalue for="state" value="needs review"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="132" g="168" b="65"/>
+        <viz:size value="3"/>
+        <viz:position x="711.9896593258818" y="251.80102346309863"/>
+      </node>
+      <node id="47" label="Ogier">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="711.8895986204509" y="251.79335595898726"/>
+      </node>
+      <node id="49" label="Renaut de Montauban">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="712.1875266178569" y="251.91575651189495"/>
+      </node>
+      <node id="50" label="Saint-Gilles">
+        <attvalues>
+          <attvalue for="state" value="final"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+        </attvalues>
+        <viz:color r="186" g="161" b="255"/>
+        <viz:size value="3"/>
+        <viz:position x="712.2382199360874" y="252.63022555756615"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="geid_212_0" source="26" target="37">
+        <attvalues>
+          <attvalue for="id" value="0"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_1" source="952" target="54">
+        <attvalues>
+          <attvalue for="id" value="1"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_2" source="952" target="53">
+        <attvalues>
+          <attvalue for="id" value="2"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_3" source="952" target="6">
+        <attvalues>
+          <attvalue for="id" value="3"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_4" source="952" target="9">
+        <attvalues>
+          <attvalue for="id" value="4"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_5" source="952" target="12">
+        <attvalues>
+          <attvalue for="id" value="5"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_6" source="952" target="929">
+        <attvalues>
+          <attvalue for="id" value="6"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_7" source="952" target="8">
+        <attvalues>
+          <attvalue for="id" value="7"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_8" source="5" target="9">
+        <attvalues>
+          <attvalue for="id" value="8"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_9" source="5" target="954">
+        <attvalues>
+          <attvalue for="id" value="9"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_10" source="930" target="9">
+        <attvalues>
+          <attvalue for="id" value="10"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_11" source="931" target="9">
+        <attvalues>
+          <attvalue for="id" value="11"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_12" source="6" target="7">
+        <attvalues>
+          <attvalue for="id" value="12"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_13" source="9" target="10">
+        <attvalues>
+          <attvalue for="id" value="13"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_14" source="953" target="11">
+        <attvalues>
+          <attvalue for="id" value="14"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_15" source="953" target="932">
+        <attvalues>
+          <attvalue for="id" value="15"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_16" source="14" target="19">
+        <attvalues>
+          <attvalue for="id" value="16"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_17" source="14" target="22">
+        <attvalues>
+          <attvalue for="id" value="17"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_18" source="14" target="18">
+        <attvalues>
+          <attvalue for="id" value="18"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_19" source="14" target="16">
+        <attvalues>
+          <attvalue for="id" value="19"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_20" source="14" target="17">
+        <attvalues>
+          <attvalue for="id" value="20"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_21" source="14" target="933">
+        <attvalues>
+          <attvalue for="id" value="21"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_22" source="19" target="21">
+        <attvalues>
+          <attvalue for="id" value="22"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_23" source="28" target="30">
+        <attvalues>
+          <attvalue for="id" value="23"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_24" source="28" target="31">
+        <attvalues>
+          <attvalue for="id" value="24"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_25" source="28" target="32">
+        <attvalues>
+          <attvalue for="id" value="25"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_26" source="28" target="33">
+        <attvalues>
+          <attvalue for="id" value="26"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_27" source="28" target="29">
+        <attvalues>
+          <attvalue for="id" value="27"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_28" source="28" target="935">
+        <attvalues>
+          <attvalue for="id" value="28"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_29" source="954" target="36">
+        <attvalues>
+          <attvalue for="id" value="29"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_30" source="954" target="38">
+        <attvalues>
+          <attvalue for="id" value="30"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_31" source="954" target="39">
+        <attvalues>
+          <attvalue for="id" value="31"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_32" source="954" target="40">
+        <attvalues>
+          <attvalue for="id" value="32"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_33" source="954" target="41">
+        <attvalues>
+          <attvalue for="id" value="33"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_34" source="954" target="42">
+        <attvalues>
+          <attvalue for="id" value="34"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_35" source="954" target="43">
+        <attvalues>
+          <attvalue for="id" value="35"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_212_36" source="954" target="44">
+        <attvalues>
+          <attvalue for="id" value="36"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
