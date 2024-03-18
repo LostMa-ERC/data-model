@@ -17,7 +17,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="3"/>
-        <viz:position x="711.4035372585581" y="253.0543198214813"/>
+        <viz:position x="684.7921015500406" y="277.03846697760036"/>
       </node>
       <node id="15" label="À rejeter ?">
         <attvalues>
@@ -26,7 +26,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="3"/>
-        <viz:position x="711.9636668481721" y="251.93655086563933"/>
+        <viz:position x="685.5876186502295" y="275.6695324725836"/>
       </node>
       <node id="26" label="Anglais">
         <attvalues>
@@ -35,7 +35,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.6387931660106" y="251.72938433406577"/>
+        <viz:position x="685.2262414106013" y="275.49994130225355"/>
       </node>
       <node id="37" label="Anglais – Bueve de Hanstonne">
         <attvalues>
@@ -44,7 +44,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.667284190112" y="251.7276595586122"/>
+        <viz:position x="685.1900870725066" y="275.5062711248594"/>
       </node>
       <node id="48" label="Arnaïs d'Orléans">
         <attvalues>
@@ -53,7 +53,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="711.2199203224453" y="252.89471662810237"/>
+        <viz:position x="684.7379603072488" y="276.91592604804185"/>
       </node>
       <node id="51" label="Basin [lien geste lorrains]">
         <attvalues>
@@ -62,7 +62,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="3"/>
-        <viz:position x="712.1609285346524" y="252.66555184483764"/>
+        <viz:position x="686.0644026514319" y="276.5673582907807"/>
       </node>
       <node id="928" label="Basin [lien geste lorrains] // Charlemagne – Vie">
         <attvalues>
@@ -71,7 +71,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="3"/>
-        <viz:position x="712.3348339297738" y="252.58544867571308"/>
+        <viz:position x="686.1661377961074" y="276.45915091515485"/>
       </node>
       <node id="52" label="Blaye">
         <attvalues>
@@ -80,16 +80,16 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="711.3327362892582" y="252.970215973781"/>
+        <viz:position x="684.8435645300098" y="276.85976159670855"/>
       </node>
       <node id="952" label="Charlemagne">
         <attvalues>
           <attvalue for="state" value="final"/>
-          <attvalue for="ipysigma_kwarg_node_size" value="7"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="8"/>
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
-        <viz:size value="12.333333333333332"/>
-        <viz:position x="711.7549824754491" y="252.73844587379713"/>
+        <viz:size value="13.666666666666666"/>
+        <viz:position x="685.536712112534" y="276.8348560467356"/>
       </node>
       <node id="53" label="Charlemagne -- ??">
         <attvalues>
@@ -98,7 +98,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.8329322373368" y="252.72353571000104"/>
+        <viz:position x="685.6193702935611" y="276.79459388172415"/>
       </node>
       <node id="54" label="Charlemagne – Agolant">
         <attvalues>
@@ -107,16 +107,16 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.8079097350368" y="252.67985093126944"/>
+        <viz:position x="685.564722110461" y="276.74553893966504"/>
       </node>
       <node id="5" label="Charlemagne – après Roncevaux">
         <attvalues>
           <attvalue for="state" value="final"/>
-          <attvalue for="ipysigma_kwarg_node_size" value="2"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
-        <viz:size value="5.666666666666666"/>
-        <viz:position x="711.4352970381024" y="252.55840083226005"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="685.3247730358606" y="277.0599959911777"/>
       </node>
       <node id="930" label="Charlemagne – avant Roncevaux">
         <attvalues>
@@ -125,7 +125,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.5526520951006" y="252.72594171635177"/>
+        <viz:position x="685.2565473398233" y="277.05047513898216"/>
       </node>
       <node id="931" label="Charlemagne – avant Roncevaux?">
         <attvalues>
@@ -134,7 +134,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.5117940888609" y="252.69157350574412"/>
+        <viz:position x="685.2198939303909" y="276.9949464112134"/>
       </node>
       <node id="6" label="Charlemagne – reliques Passion">
         <attvalues>
@@ -143,7 +143,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="5.666666666666666"/>
-        <viz:position x="711.7991341939457" y="252.8534523785525"/>
+        <viz:position x="685.490804380418" y="276.66987979909027"/>
       </node>
       <node id="7" label="Charlemagne – reliques Passion – Rome">
         <attvalues>
@@ -152,7 +152,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.82035376217" y="252.90626582337728"/>
+        <viz:position x="685.4714757994512" y="276.59523916008266"/>
       </node>
       <node id="9" label="Charlemagne – Roncevaux">
         <attvalues>
@@ -161,7 +161,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="9.666666666666668"/>
-        <viz:position x="711.5677215283079" y="252.66413299522694"/>
+        <viz:position x="685.3116900179799" y="276.97540564663524"/>
       </node>
       <node id="10" label="Charlemagne – suite Roncevaux">
         <attvalues>
@@ -170,16 +170,16 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.582357788828" y="252.60907040439133"/>
+        <viz:position x="685.2390748202624" y="276.92941911215786"/>
       </node>
       <node id="953" label="Charlemagne – Vassaux">
         <attvalues>
           <attvalue for="state" value="final"/>
-          <attvalue for="ipysigma_kwarg_node_size" value="2"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="3"/>
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
-        <viz:size value="5.666666666666666"/>
-        <viz:position x="712.1760439453532" y="252.8843791256114"/>
+        <viz:size value="7"/>
+        <viz:position x="685.750961742278" y="276.84961537897"/>
       </node>
       <node id="11" label="Charlemagne – Vassaux rebelles">
         <attvalues>
@@ -188,7 +188,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="712.1527825341959" y="252.9161163292315"/>
+        <viz:position x="685.8197825334204" y="276.89135780346464"/>
       </node>
       <node id="932" label="Charlemagne – vassaux??">
         <attvalues>
@@ -197,7 +197,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="712.1994766364392" y="252.8531536969179"/>
+        <viz:position x="685.8253326469096" y="276.81761503079207"/>
       </node>
       <node id="12" label="Charlemagne – Vie de Charlemagne">
         <attvalues>
@@ -206,7 +206,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.7206567130953" y="252.79607312086648"/>
+        <viz:position x="685.5259165877327" y="276.9274853767111"/>
       </node>
       <node id="929" label="Charlemagne – Vie de Charlemagne?">
         <attvalues>
@@ -215,7 +215,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.7559546426189" y="252.66996900516725"/>
+        <viz:position x="685.4537383578723" y="276.7995260411383"/>
       </node>
       <node id="8" label="Charlemagne – Vie de Roland">
         <attvalues>
@@ -224,7 +224,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.8158178639104" y="252.77247854506413"/>
+        <viz:position x="685.5985386163866" y="276.90914524968457"/>
       </node>
       <node id="13" label="Charles Martel">
         <attvalues>
@@ -233,7 +233,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="712.058389845369" y="251.8889622673549"/>
+        <viz:position x="685.7182058620044" y="275.6015030416561"/>
       </node>
       <node id="14" label="Croisade">
         <attvalues>
@@ -242,7 +242,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="11"/>
-        <viz:position x="712.1626382366544" y="252.23871329929491"/>
+        <viz:position x="685.9064016195161" y="276.04708308993844"/>
       </node>
       <node id="19" label="Croisade 1">
         <attvalues>
@@ -251,7 +251,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="5.666666666666666"/>
-        <viz:position x="712.2057121619171" y="252.32940390470128"/>
+        <viz:position x="685.9253169288315" y="276.17563662769686"/>
       </node>
       <node id="21" label="Croisade 1 – Lignage Godefroi">
         <attvalues>
@@ -260,7 +260,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="712.2273195878101" y="252.3761955282232"/>
+        <viz:position x="685.9351772738862" y="276.2416051248888"/>
       </node>
       <node id="22" label="Croisade 2">
         <attvalues>
@@ -269,7 +269,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="712.1925224028975" y="252.17706166220293"/>
+        <viz:position x="685.9688259754039" y="275.98459182964774"/>
       </node>
       <node id="18" label="Croisade ?">
         <attvalues>
@@ -278,7 +278,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="712.1316433835672" y="252.1771955682106"/>
+        <viz:position x="685.8938587255612" y="275.95840969818164"/>
       </node>
       <node id="16" label="Croisade – Albigeois">
         <attvalues>
@@ -287,7 +287,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="712.2275478233914" y="252.22870992515857"/>
+        <viz:position x="685.9897878421896" y="276.062941890429"/>
       </node>
       <node id="17" label="Croisade – Reconquista">
         <attvalues>
@@ -296,7 +296,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="712.095599334459" y="252.22673586978567"/>
+        <viz:position x="685.8291973049775" y="276.0034219089461"/>
       </node>
       <node id="933" label="Croisade?">
         <attvalues>
@@ -305,7 +305,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="712.1171026571204" y="252.2854187580349"/>
+        <viz:position x="685.8297182420084" y="276.0843747574584"/>
       </node>
       <node id="23" label="Dagobert">
         <attvalues>
@@ -314,7 +314,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="712.3349866603995" y="252.70657400705505"/>
+        <viz:position x="686.1728893507607" y="276.77381100286215"/>
       </node>
       <node id="24" label="Doon de Maience">
         <attvalues>
@@ -323,7 +323,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="711.3349659567906" y="251.8698419623987"/>
+        <viz:position x="684.9301660699748" y="275.61177694879666"/>
       </node>
       <node id="25" label="Girart de Roussillon">
         <attvalues>
@@ -332,7 +332,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="710.9984918192126" y="252.6259809332861"/>
+        <viz:position x="684.6287761827093" y="276.8488259816566"/>
       </node>
       <node id="934" label="Huon de Bord.">
         <attvalues>
@@ -341,7 +341,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="712.4336509199167" y="252.45952009010685"/>
+        <viz:position x="686.2671261810312" y="276.32383248440607"/>
       </node>
       <node id="27" label="Huon de Bordeaux">
         <attvalues>
@@ -350,7 +350,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="711.8271642472162" y="252.30984026624043"/>
+        <viz:position x="684.9293141227323" y="276.7381349411268"/>
       </node>
       <node id="28" label="Indépendant">
         <attvalues>
@@ -359,7 +359,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="11"/>
-        <viz:position x="711.6543529512503" y="252.02330922528816"/>
+        <viz:position x="685.2647541852913" y="275.93001554873643"/>
       </node>
       <node id="30" label="Indépendant – actualité">
         <attvalues>
@@ -368,7 +368,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.6469494735474" y="251.95847923911208"/>
+        <viz:position x="685.2492968477724" y="275.8452773345089"/>
       </node>
       <node id="31" label="Indépendant – Arles">
         <attvalues>
@@ -377,7 +377,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.7160062674042" y="252.05132841211437"/>
+        <viz:position x="685.3447656686726" y="275.96323260725774"/>
       </node>
       <node id="32" label="Indépendant – Isembart">
         <attvalues>
@@ -386,7 +386,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.6626963649882" y="252.08888476267205"/>
+        <viz:position x="685.2798953297035" y="276.01620779254375"/>
       </node>
       <node id="33" label="Indépendant – Mérovingien">
         <attvalues>
@@ -395,7 +395,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.5991076374753" y="252.05985534432347"/>
+        <viz:position x="685.1989811079426" y="275.9843143954017"/>
       </node>
       <node id="29" label="Indépendant – [liens avec geste des Lorrains]">
         <attvalues>
@@ -404,7 +404,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.7104443833999" y="251.98717394406302"/>
+        <viz:position x="685.3318615750043" y="275.8765501209754"/>
       </node>
       <node id="935" label="Indépendant?">
         <attvalues>
@@ -413,7 +413,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.5920079261198" y="251.99612066179787"/>
+        <viz:position x="685.1833150027207" y="275.89843528083236"/>
       </node>
       <node id="34" label="Lorrains">
         <attvalues>
@@ -422,7 +422,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="711.2591325168152" y="251.96968136625875"/>
+        <viz:position x="684.8143856271597" y="275.70818436708436"/>
       </node>
       <node id="954" label="Monglane">
         <attvalues>
@@ -431,16 +431,16 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="15"/>
-        <viz:position x="711.2952932647859" y="252.44061579828013"/>
+        <viz:position x="684.7206110682312" y="276.31410299844293"/>
       </node>
       <node id="35" label="Monglane -- ?">
         <attvalues>
           <attvalue for="state" value="needs review"/>
-          <attvalue for="ipysigma_kwarg_node_size" value="0"/>
+          <attvalue for="ipysigma_kwarg_node_size" value="1"/>
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
-        <viz:size value="3"/>
-        <viz:position x="711.5816405863894" y="253.10175654949808"/>
+        <viz:size value="4.333333333333333"/>
+        <viz:position x="684.8217469656637" y="276.3413349817917"/>
       </node>
       <node id="36" label="Monglane -- Rainouart">
         <attvalues>
@@ -449,7 +449,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.2346653665409" y="252.49731218716377"/>
+        <viz:position x="684.6473132010183" y="276.39086154309433"/>
       </node>
       <node id="38" label="Monglane – Aliscans/Larchamp">
         <attvalues>
@@ -458,7 +458,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.2542428654497" y="252.36467834254105"/>
+        <viz:position x="684.6920794077653" y="276.21003461227644"/>
       </node>
       <node id="39" label="Monglane – Garin (les origines)">
         <attvalues>
@@ -467,7 +467,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.3495976402098" y="252.3804225624986"/>
+        <viz:position x="684.8137971844046" y="276.26699289210245"/>
       </node>
       <node id="40" label="Monglane – Guillaume">
         <attvalues>
@@ -476,7 +476,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.3031055154435" y="252.35590286601806"/>
+        <viz:position x="684.7617217864328" y="276.2156185792085"/>
       </node>
       <node id="41" label="Monglane – Guillaume (fin)">
         <attvalues>
@@ -485,7 +485,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.3664080235958" y="252.4400566886467"/>
+        <viz:position x="684.780286798187" y="276.40176811829474"/>
       </node>
       <node id="42" label="Monglane – indépendante">
         <attvalues>
@@ -494,7 +494,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.2196258049386" y="252.39970065482976"/>
+        <viz:position x="684.6350503308087" y="276.2522312828892"/>
       </node>
       <node id="43" label="Monglane – Narbonne">
         <attvalues>
@@ -503,7 +503,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.2883333873004" y="252.51628558611384"/>
+        <viz:position x="684.711631556797" y="276.4209089131219"/>
       </node>
       <node id="44" label="Monglane – Vivien">
         <attvalues>
@@ -512,7 +512,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="4.333333333333333"/>
-        <viz:position x="711.2115058216865" y="252.44973778907632"/>
+        <viz:position x="684.6166411804852" y="276.3240683470457"/>
       </node>
       <node id="45" label="Nanteuil">
         <attvalues>
@@ -521,7 +521,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="711.8893983636888" y="253.1105933824007"/>
+        <viz:position x="685.1986913065826" y="276.41524782190265"/>
       </node>
       <node id="46" label="NON IDENTIFIÉ">
         <attvalues>
@@ -530,7 +530,7 @@
         </attvalues>
         <viz:color r="132" g="168" b="65"/>
         <viz:size value="3"/>
-        <viz:position x="711.9896593258818" y="251.80102346309863"/>
+        <viz:position x="685.5959698717794" y="275.5182103518228"/>
       </node>
       <node id="47" label="Ogier">
         <attvalues>
@@ -539,7 +539,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="711.8895986204509" y="251.79335595898726"/>
+        <viz:position x="685.468613971956" y="275.5489367973061"/>
       </node>
       <node id="49" label="Renaut de Montauban">
         <attvalues>
@@ -548,7 +548,7 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="712.1875266178569" y="251.91575651189495"/>
+        <viz:position x="685.9057964342697" y="275.62603119354696"/>
       </node>
       <node id="50" label="Saint-Gilles">
         <attvalues>
@@ -557,265 +557,272 @@
         </attvalues>
         <viz:color r="186" g="161" b="255"/>
         <viz:size value="3"/>
-        <viz:position x="712.2382199360874" y="252.63022555756615"/>
+        <viz:position x="686.2050085922277" y="276.59257259462055"/>
       </node>
     </nodes>
     <edges>
-      <edge id="geid_212_0" source="26" target="37">
+      <edge id="geid_215_0" source="26" target="37">
         <attvalues>
           <attvalue for="id" value="0"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_1" source="952" target="54">
+      <edge id="geid_215_1" source="952" target="54">
         <attvalues>
           <attvalue for="id" value="1"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_2" source="952" target="53">
+      <edge id="geid_215_2" source="952" target="53">
         <attvalues>
           <attvalue for="id" value="2"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_3" source="952" target="6">
+      <edge id="geid_215_3" source="952" target="6">
         <attvalues>
           <attvalue for="id" value="3"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_4" source="952" target="9">
+      <edge id="geid_215_4" source="952" target="9">
         <attvalues>
           <attvalue for="id" value="4"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_5" source="952" target="12">
+      <edge id="geid_215_5" source="952" target="953">
         <attvalues>
           <attvalue for="id" value="5"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_6" source="952" target="929">
+      <edge id="geid_215_6" source="952" target="12">
         <attvalues>
           <attvalue for="id" value="6"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_7" source="952" target="8">
+      <edge id="geid_215_7" source="952" target="929">
         <attvalues>
           <attvalue for="id" value="7"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_8" source="5" target="9">
+      <edge id="geid_215_8" source="952" target="8">
         <attvalues>
           <attvalue for="id" value="8"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_9" source="5" target="954">
+      <edge id="geid_215_9" source="5" target="9">
         <attvalues>
           <attvalue for="id" value="9"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_10" source="930" target="9">
+      <edge id="geid_215_10" source="930" target="9">
         <attvalues>
           <attvalue for="id" value="10"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_11" source="931" target="9">
+      <edge id="geid_215_11" source="931" target="9">
         <attvalues>
           <attvalue for="id" value="11"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_12" source="6" target="7">
+      <edge id="geid_215_12" source="6" target="7">
         <attvalues>
           <attvalue for="id" value="12"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_13" source="9" target="10">
+      <edge id="geid_215_13" source="9" target="10">
         <attvalues>
           <attvalue for="id" value="13"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_14" source="953" target="11">
+      <edge id="geid_215_14" source="953" target="11">
         <attvalues>
           <attvalue for="id" value="14"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_15" source="953" target="932">
+      <edge id="geid_215_15" source="953" target="932">
         <attvalues>
           <attvalue for="id" value="15"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_16" source="14" target="19">
+      <edge id="geid_215_16" source="14" target="19">
         <attvalues>
           <attvalue for="id" value="16"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_17" source="14" target="22">
+      <edge id="geid_215_17" source="14" target="22">
         <attvalues>
           <attvalue for="id" value="17"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_18" source="14" target="18">
+      <edge id="geid_215_18" source="14" target="18">
         <attvalues>
           <attvalue for="id" value="18"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_19" source="14" target="16">
+      <edge id="geid_215_19" source="14" target="16">
         <attvalues>
           <attvalue for="id" value="19"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_20" source="14" target="17">
+      <edge id="geid_215_20" source="14" target="17">
         <attvalues>
           <attvalue for="id" value="20"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_21" source="14" target="933">
+      <edge id="geid_215_21" source="14" target="933">
         <attvalues>
           <attvalue for="id" value="21"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_22" source="19" target="21">
+      <edge id="geid_215_22" source="19" target="21">
         <attvalues>
           <attvalue for="id" value="22"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_23" source="28" target="30">
+      <edge id="geid_215_23" source="28" target="30">
         <attvalues>
           <attvalue for="id" value="23"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_24" source="28" target="31">
+      <edge id="geid_215_24" source="28" target="31">
         <attvalues>
           <attvalue for="id" value="24"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_25" source="28" target="32">
+      <edge id="geid_215_25" source="28" target="32">
         <attvalues>
           <attvalue for="id" value="25"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_26" source="28" target="33">
+      <edge id="geid_215_26" source="28" target="33">
         <attvalues>
           <attvalue for="id" value="26"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_27" source="28" target="29">
+      <edge id="geid_215_27" source="28" target="29">
         <attvalues>
           <attvalue for="id" value="27"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_28" source="28" target="935">
+      <edge id="geid_215_28" source="28" target="935">
         <attvalues>
           <attvalue for="id" value="28"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_29" source="954" target="36">
+      <edge id="geid_215_29" source="954" target="35">
         <attvalues>
           <attvalue for="id" value="29"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_30" source="954" target="38">
+      <edge id="geid_215_30" source="954" target="36">
         <attvalues>
           <attvalue for="id" value="30"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_31" source="954" target="39">
+      <edge id="geid_215_31" source="954" target="38">
         <attvalues>
           <attvalue for="id" value="31"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_32" source="954" target="40">
+      <edge id="geid_215_32" source="954" target="39">
         <attvalues>
           <attvalue for="id" value="32"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_33" source="954" target="41">
+      <edge id="geid_215_33" source="954" target="40">
         <attvalues>
           <attvalue for="id" value="33"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_34" source="954" target="42">
+      <edge id="geid_215_34" source="954" target="41">
         <attvalues>
           <attvalue for="id" value="34"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_35" source="954" target="43">
+      <edge id="geid_215_35" source="954" target="42">
         <attvalues>
           <attvalue for="id" value="35"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
       </edge>
-      <edge id="geid_212_36" source="954" target="44">
+      <edge id="geid_215_36" source="954" target="43">
         <attvalues>
           <attvalue for="id" value="36"/>
+        </attvalues>
+        <viz:color r="204" g="204" b="204"/>
+        <viz:size value="0.5"/>
+      </edge>
+      <edge id="geid_215_37" source="954" target="44">
+        <attvalues>
+          <attvalue for="id" value="37"/>
         </attvalues>
         <viz:color r="204" g="204" b="204"/>
         <viz:size value="0.5"/>
